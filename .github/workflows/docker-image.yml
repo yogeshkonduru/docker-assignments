@@ -23,3 +23,5 @@ jobs:
       
     - name: Build the Docker image
       run: docker build . -t yogeshkonduru5/sample-fastapi
+    - name: Docker push
+      run: docker push yogeshkonduru5/sample-fastapi
