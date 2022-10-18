@@ -2,7 +2,14 @@
 
 ### Task1 : Demonstrate minimum 15 basic docker command with explanation and screenshot.
 
-### Task2 : Run Hello World Docker Image Locally.
+I am writing the article and it will be completed 
+
+### Task2 : Run Hello World Docker Image Locally
+
+I have locally runned the hello world image 
+
+![Screenshot_20221018_033238](https://user-images.githubusercontent.com/40336588/196401330-87a7159d-371c-4bf3-b6b9-68fe8ceb37e2.png)
+
 
 ### Task3 : Create a hello world fastapi application. Create a Dockerfile for your fastapi hello world application. Build Docker image using Docker file. Run docker image build in previous step. Push your Docker image to Docker Hub.
 
